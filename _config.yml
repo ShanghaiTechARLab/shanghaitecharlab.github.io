@@ -32,7 +32,7 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
+avatar: "/img/avatar-icon.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -73,29 +73,29 @@ author:
 social-network-links:
   rss: true
   email: "yanglf@shanghaitech.edu.cn"
-  facebook: daattali
-  github: daattali
-  twitter: daattali
+#  facebook: yourname
+#  github: yourname
+#  twitter: yourname
 #  reddit: yourname
-#  google-plus: +DeanAttali
-#  linkedin: daattali
+#  google-plus: yourname
+#  linkedin: yourname
 #  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  youtube: user/deanat78
+#  stackoverflow: yourname
+#  snapchat: yourname
+#  instagram: yourname
+#  youtube: yourname
 #  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
+#  telephone: yourname
+#  steam: yourname
 #  twitch: yourname
 #  yelp: yourname
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
+  twitter: false
+  facebook: false
   google: false
-  linkedin: true
+  linkedin: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
@@ -236,7 +236,14 @@ prose:
 
 plugins:
   - jekyll-paginate
+  - jekyll-multiple-languages
   - jekyll-sitemap
 
+# 所有的语言
+languages:          ['en', 'cn']
+
+# 默认语言
+# 如果没有配置，languages 中的第一项就是默认语言
+language_default:   'cn'
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189

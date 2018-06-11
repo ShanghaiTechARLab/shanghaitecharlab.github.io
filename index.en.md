@@ -2,8 +2,8 @@
 layout: page
 title: 态度研究实验室
 permalink: /
-subtitle: <b>A</b>ttitude <b>R</b>esearch Laboratory
-language: cn
+subtitle: <b>A</b>ttitude <b>R</b>esearch Laboratory  
+language: en
 ---
 
 社会由人组成。人的态度在人行为、决策、信息处理上都有着无法被替代的重要性。人的态度不但会影响到当事人如何处理信息如何对待决定；还影响外界如何评定、如何对待持态度的人或群体。人的态度是如何形成的？人的态度如何能够被改变？人在自己态度被改变的时候会有怎么样的反应或倾向性？如何有效的帮助态度的形成和改变？对这一些问题的研究无论是对政府，企业，商家，创业者，管理者，甚至我们生活中的每一位，都有着非常重要的意义。
