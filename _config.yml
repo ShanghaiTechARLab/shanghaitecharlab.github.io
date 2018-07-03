@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: AR Lab @ ShanghaiTech
+title: AR Lab
 
 # Short description of your site
 description:
@@ -27,7 +27,7 @@ navbar-links:
   About: ""
   News: "news/"
   People: "people/"
-  Publication: "publication/"
+  # Publication: "publication/"
   Research: "research/"
   Join Us: "join/"
 
