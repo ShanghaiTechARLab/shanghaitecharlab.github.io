@@ -16,6 +16,12 @@ subtitle: 态度研究实验室成员
 <hr>
 <b><span style="font-size: 20px !important; color: #4B0082;">季佳颖</span></b><br>
 <div align="center"><img src="images/default.jpg" width="150" align="center" /></div><br>
+<br>
+<b><span style="font-size: 20px !important; color: #4B0082;">夏霁</span></b><br>
+<div align="center"><img src="images/default.jpg" width="150" align="center" /></div><br>
+
+<b><span style="font-size: 25px !important; color: 	#326A11;">实验室合伙人</span></b>
+<hr>
 
 <b><span style="font-size: 25px !important; color: 	#CD5C5C;">红组：实验组</span></b>
 <hr>
