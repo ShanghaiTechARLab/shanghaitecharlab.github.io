@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://shanghaitecharlab.github.io"
+url: "http://www.ar-lab.cn"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -65,7 +65,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Attitude Research Laboratory @ ShanghaiTech University
+  name: <a href="www.ar-lab.cn">Attitude Research Laboratory</a> @ <a href="http://www.shanghaitech.edu.cn">ShanghaiTech University</a>
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
