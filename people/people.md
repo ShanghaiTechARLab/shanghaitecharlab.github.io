@@ -28,7 +28,7 @@ subtitle: 态度研究实验室成员
 <hr>
 <b><span style="font-size: 20px !important; color: #4B0082;">方治欣</span></b><br>
 <div align="center"><img src="images/ZhixinFang.jpg" width="200" align="center" /></div><br>
-对心理和行为的分析极其有兴趣，正在学习行为学建模和C语言编程。网络社交相关话题的idea generator，最近致力于目标梯度(goal gradients)相关的研究。
+就读于上海科技大学信息科学与技术学院计算机科学专业。对心理和行为的分析极其有兴趣，正在学习行为学建模和C语言编程。网络社交相关话题的idea generator，最近致力于目标梯度(goal gradients)相关的研究。
 <br><br>
 
 <b><span style="font-size: 20px !important; color: #4B0082;">刘浩宇</span></b><br>
@@ -52,6 +52,11 @@ subtitle: 态度研究实验室成员
 <b><span style="font-size: 20px !important; color: #4B0082;">曾理</span></b><br>
 <div align="center"><img src="images/LiZeng.jpg" width="200" align="center" /></div><br>
 就读于上海科技大学信息科学与技术学院计算机科学与技术专业。热爱运动，擅长分析和计算。
+<br><br>
+
+<b><span style="font-size: 20px !important; color: #4B0082;">曾祥琛</span></b><br>
+<div align="center"><img src="images/XiangchenZeng.jpg" width="200" align="center" /></div><br>
+就读于上海科技大学信息科学与技术学院计算机科学与技术专业。理想成为一名独立游戏开发者，正在努力学习计算机图形学和相关技术，同时对心理学也有一定的兴趣和研究。擅长头脑风暴和网站运维。希望通过实验室经历加强自己的开发水平和思考能力。
 <br><br>
 
 
