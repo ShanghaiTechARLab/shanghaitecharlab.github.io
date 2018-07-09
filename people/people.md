@@ -18,11 +18,14 @@ subtitle: 态度研究实验室成员
 <div align="center"><img src="images/JiayingJi.jpg" width="200" align="center" /></div><br>
 毕业于香港浸会大学传播学专业。现为上海科技大学创业与管理学院杨丽凤副教授的研究助理，以及态度研究实验室管理员。主要负责研究辅助以及实验室运营的工作。
 <br><br>
-<b><span style="font-size: 20px !important; color: #4B0082;">夏霁</span></b><br>
-<div align="center"><img src="images/default.jpg" width="200" align="center" /></div><br>
+
 
 <b><span style="font-size: 25px !important; color: 	#326A11;">实验室合伙人</span></b>
 <hr>
+<b><span style="font-size: 20px !important; color: #4B0082;">夏霁</span></b><br>
+<div align="center"><img src="images/JiXia_Large.jpg" width="200" align="center" /></div><br>
+于美国爱荷华大学取得心理学学士（2013年）及硕士学位（2016年），现于美国布法罗的纽约州立大学的Kenneth G. DeMarree博士下修读博士学位。主要研究激励力量（motivational forces, 目标、进化需求等等）如何塑造人类的认知和行为。对人类如何对有说服力的信息的反应的激励因素的潜在影响以及人类如何察觉他们自己的反应（metacognition, 元认知）和后续这些过程如何对他们形成/改变他们的态度产生影响有着浓厚兴趣。
+<br><br>
 
 <b><span style="font-size: 25px !important; color: 	#CD5C5C;">红组：智能组</span></b>
 <hr>
@@ -43,11 +46,37 @@ subtitle: 态度研究实验室成员
 
 <b><span style="font-size: 20px !important; color: #4B0082;">曾理</span></b><br>
 <div align="center"><img src="images/LiZeng.jpg" width="200" align="center" /></div><br>
-就读于上海科技大学信息科学与技术学院计算机科学与技术专业。热爱运动，擅长分析和计算。
+就读于上海科技大学信息科学与技术学院计算机科学与技术专业。热爱运动，擅长分析和计算。 理想是成为一名计算机科学领域研究人员。对社会心理学和人工智能有一定的兴趣，希望能在ARLab对相关课题做一定的研究，并积累自己的研究经验，锻炼研究能力。
 <br><br>
+
+<b><span style="font-size: 20px !important; color: #4B0082;">沈凡婷</span></b><br>
+<div align="center"><img src="images/FantingShen.jpg" width="200" align="center" /></div><br>
+目前就读于上海科技大学信息学院计算机专业，创新与创业专业辅修。擅长设计制作实体demo，习惯观察分析人物的性格与神态细节，喜欢音乐与乐团，也喜欢有挑战的东西。近期对"全网黑"这一现象的形成原因与网民的观点形成方式比较感兴趣，另在研究上海文化的形成原因
+<br><br>
+
+<b><span style="font-size: 20px !important; color: #4B0082;">石兆杰</span></b><br>
+<div align="center"><img src="images/ZhaojieShi.jpg" width="200" align="center" /></div><br>
+就读于上海科技大学物质科学与技术学院材料科学与技术专业，理想从事教育行业。正在学习社会心理学、数学建模等知识。希望了解更多人们做决定时的心态。擅长自媒体研究、实验材料设计。
+<br><br>
+
+<b><span style="font-size: 20px !important; color: #4B0082;">俞家桐</span></b><br>
+<div align="center"><img src="images/JiatongYu.jpg" width="200" align="center" /></div><br>
+就读于上海科技大学信息学院计算机科学与技术专业。目前对市场及用户研究十分感兴趣，正在学习消费者心理学方面的相关知识。近期正在进行群体与个体消费行为的研究。
+<br><br>
+
+<b><span style="font-size: 20px !important; color: #4B0082;">朱汪俊</span></b><br>
+<div align="center"><img src="images/WangjunZhu.jpg" width="200" align="center" /></div><br>
+就读于上海科技大学信息科学与技术学院计算机科学专业。喜欢天文，对心理学也有一定的兴趣，善于倾听，希望通过学习了解人类的行为模式。
+<br><br>
+
 
 <b><span style="font-size: 25px !important; color: #1E90FF;">蓝组：技术组</span></b>
 <hr>
+
+<b><span style="font-size: 20px !important; color: #4B0082;">成昂</span></b><br>
+<div align="center"><img src="images/AngCheng.jpg" width="200" align="center" /></div><br>
+就读于上海科技大学信息科学与技术学院计算机科学专业。热爱动画、摄影，曾经参加过数部微电影与短片的制作。擅长视频制作，团队协作。正在学习游戏开发。对大众心理学、商业市场有很强的兴趣。目前正在寻找自己感兴趣的课题，同时对组内的其他同学进行技术支持。
+<br><br>
 
 <b><span style="font-size: 20px !important; color: #4B0082;">张星雅</span></b><br>
 <div align="center"><img src="images/XingyaZhang.jpg" width="200" align="center" /></div><br>
