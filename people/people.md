@@ -25,8 +25,6 @@ subtitle: 态度研究实验室成员
 <b><span style="font-size: 20px !important; color: #4B0082;">Matthew D. Rocklage</span></b><br>
 <div align="center"><img src="images/MattRock.jpg" width="200" align="center" /></div><br>
 I'm a South Dakota native who earned my PhD in social psychology with a minor in statistics and quantitative methods at Ohio State University working with Dr. Russ Fazio. I'm currently a postdoctoral researcher of marketing at Northwestern University in the Kellogg School of Management.
-<br>
-I'm a South Dakota native who earned my PhD in social psychology with a minor in statistics and quantitative methods at Ohio State University working with Dr. Russ Fazio. I'm currently a postdoctoral researcher of marketing at Northwestern University in the Kellogg School of Management
 <br><br>
 
 <b><span style="font-size: 25px !important; color: 	#326A11;">实验室访问学者</span></b>
