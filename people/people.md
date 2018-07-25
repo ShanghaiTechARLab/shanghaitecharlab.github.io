@@ -20,7 +20,16 @@ subtitle: 态度研究实验室成员
 <br><br>
 
 
-<b><span style="font-size: 25px !important; color: 	#326A11;">实验室合伙人</span></b>
+<b><span style="font-size: 25px !important; color: 	#326A11;">实验室主要成员</span></b>
+<hr>
+<b><span style="font-size: 20px !important; color: #4B0082;">Matthew D. Rocklage</span></b><br>
+<div align="center"><img src="images/MattRock.jpg" width="200" align="center" /></div><br>
+I'm a South Dakota native who earned my PhD in social psychology with a minor in statistics and quantitative methods at Ohio State University working with Dr. Russ Fazio. I'm currently a postdoctoral researcher of marketing at Northwestern University in the Kellogg School of Management.
+<br>
+I'm a South Dakota native who earned my PhD in social psychology with a minor in statistics and quantitative methods at Ohio State University working with Dr. Russ Fazio. I'm currently a postdoctoral researcher of marketing at Northwestern University in the Kellogg School of Management
+<br><br>
+
+<b><span style="font-size: 25px !important; color: 	#326A11;">实验室访问学者</span></b>
 <hr>
 <b><span style="font-size: 20px !important; color: #4B0082;">夏霁</span></b><br>
 <div align="center"><img src="images/JiXia_Large.jpg" width="200" align="center" /></div><br>
