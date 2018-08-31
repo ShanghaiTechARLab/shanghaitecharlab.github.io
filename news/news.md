@@ -12,7 +12,7 @@ subtitle: 实验室新闻
 <span style="font-size: 15px !important; color: #BD0026;">2018年8月29日</span>  
 ### 热烈庆祝实验室创建元老级成员/上科大计算机专业本科二年级成昂同学及其团队荣获网易游戏举办的Mini Game高校挑战赛第一名！
 比赛于2018年7月15号开始，8月30号结束。获取二等奖团队为北京大学，清华大学团队。恭喜上科大！恭喜成昂同学！为上科大“小规模，高水平，研究型” 感到非常自豪! <br>
-<div align="center"><img src="images/MGprize.JPG" width="600" align="center" /></div><br>
+<div align="center"><img src="images/prize.jpg" width="600" align="center" /></div><br>
 [来源](http://game.academy.163.com/minigame/2018/result)
 
 　　
