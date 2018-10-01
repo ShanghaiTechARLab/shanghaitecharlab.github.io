@@ -25,11 +25,13 @@ navbar-font: 120px
 # List of links in the navigation bar
 navbar-links:
   About: ""
-  News: "https://shanghaitecharlab.github.io/news/"
-  People: "https://shanghaitecharlab.github.io/people/"
+  News: "news"
+  People: 
+    - Current: "current"
+    - Alumni: "alumni"
   # Publication: "shanghaitecharlab.github.io/publication/"
-  Research: "https://shanghaitecharlab.github.io/research/"
-  Join Us: "https://shanghaitecharlab.github.io/join/"
+  Research: "research"
+  Join Us: "join"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -241,7 +243,7 @@ plugins:
   - jekyll-sitemap
 
 # 所有的语言
-languages:          ['en', 'cn']
+languages: ['cn', 'en']
 
 # 默认语言
 # 如果没有配置，languages 中的第一项就是默认语言

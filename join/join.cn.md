@@ -2,5 +2,5 @@
 layout: page
 title: Join AR Lab
 permalink: /join/
-subtitle: Welcome to join us!
+subtitle: 招募人才
 ---

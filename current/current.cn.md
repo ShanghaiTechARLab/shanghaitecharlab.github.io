@@ -1,8 +1,8 @@
 ---
 layout: page
 title: People
-permalink: /people/
-subtitle: 态度研究实验室成员
+permalink: /current/
+subtitle: 现任实验室成员
 ---
 
 <b><span style="font-size: 25px !important; color: #B8860B;">研究员</span></b>
@@ -17,21 +17,6 @@ subtitle: 态度研究实验室成员
 <b><span style="font-size: 20px !important; color: #4B0082;">季佳颖</span></b><br>
 <div align="center"><img src="images/JiayingJi.jpg" width="200" align="center" /></div><br>
 毕业于香港浸会大学传播学专业。现为上海科技大学创业与管理学院杨丽凤副教授的研究助理，以及态度研究实验室管理员。主要负责研究辅助以及实验室运营的工作。
-<br><br>
-
-
-<b><span style="font-size: 25px !important; color: 	#326A11;">实验室主要成员</span></b>
-<hr>
-<b><span style="font-size: 20px !important; color: #4B0082;">Matthew D. Rocklage</span></b><br>
-<div align="center"><img src="images/MattRock.jpg" width="200" align="center" /></div><br>
-I'm a South Dakota native who earned my PhD in social psychology with a minor in statistics and quantitative methods at Ohio State University working with Dr. Russ Fazio. I'm currently a postdoctoral researcher of marketing at Northwestern University in the Kellogg School of Management.
-<br><br>
-
-<b><span style="font-size: 25px !important; color: 	#326A11;">实验室访问学者</span></b>
-<hr>
-<b><span style="font-size: 20px !important; color: #4B0082;">夏霁</span></b><br>
-<div align="center"><img src="images/JiXia_Large.jpg" width="200" align="center" /></div><br>
-于美国爱荷华大学取得心理学学士（2013年）及硕士学位（2016年），现于美国布法罗的纽约州立大学的Kenneth G. DeMarree博士下修读博士学位。主要研究激励力量（motivational forces, 目标、进化需求等等）如何塑造人类的认知和行为。对人类如何对有说服力的信息的反应的激励因素的潜在影响以及人类如何察觉他们自己的反应（metacognition, 元认知）和后续这些过程如何对他们形成/改变他们的态度产生影响有着浓厚兴趣。
 <br><br>
 
 <b><span style="font-size: 25px !important; color: 	#CD5C5C;">红组：智能组</span></b>

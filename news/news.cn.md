@@ -6,20 +6,20 @@ subtitle: 实验室新闻
 ---
 
 <span style="font-size: 15px !important; color: #BD0026;">2018年8月31日</span> 
-### Lecture Announcement: The ABC of Ambivalence: Affective, Behavioral, and Cognitive Consequences of Attitudinal Conflict
+### 讲座预告: The ABC of Ambivalence: Affective, Behavioral, and Cognitive Consequences of Attitudinal Conflict
 <div align="center"><img src="images/Poster for Frenk.png" width="600" align="center" /></div><br>
 
 <span style="font-size: 15px !important; color: #BD0026;">2018年8月29日</span>  
-### Congrats to Ang Cheng and his team won the Fist place in NetEase Mini Game University Game Jam!
-Game Jam started in 15th July and ended in 30th Aug. Teams from Beijing Unversity and Tsinghua University won the second place. Congrats to ShanghaiTech and Ang! We are so proud of you!<br>
+### 热烈庆祝实验室创建元老级成员/上科大计算机专业本科二年级成昂同学及其团队荣获网易游戏举办的Mini Game高校挑战赛第一名！
+比赛于2018年7月15号开始，8月30号结束。获取二等奖团队为北京大学，清华大学团队。恭喜上科大！恭喜成昂同学！为上科大“小规模，高水平，研究型” 感到非常自豪! <br>
 <div align="center"><img src="images/MG1st.jpg" width="600" align="center" /></div><br>
-[Source](http://game.academy.163.com/minigame/2018/result)
+[来源](http://game.academy.163.com/minigame/2018/result)
 
 　　
 <br>
 <span style="font-size: 15px !important; color: #BD0026;">2018年8月24日</span>  
-### Welcome Ge Zhang joining AR Lab Team Blue!
-More information see **[People](https://www.ar-lab.cn/people/)** update.
+### 欢迎张哿同学加入态度研究实验室技术组！
+具体内容请看**[People](https://www.ar-lab.cn/people/)**更新
 
 <br>
 <span style="font-size: 15px !important; color: #BD0026;">2018年7月13日</span>  
@@ -45,5 +45,5 @@ More information see **[People](https://www.ar-lab.cn/people/)** update.
 
 <br>
 <span style="font-size: 15px !important; color: #BD0026;">2018年6月15日</span>  
-### Website established.
+### 实验室网站建成
 

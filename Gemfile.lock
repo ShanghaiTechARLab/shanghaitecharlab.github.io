@@ -105,6 +105,7 @@ GEM
       activesupport (~> 4.0)
       html-pipeline (~> 2.3)
       jekyll (~> 3.0)
+    jekyll-multiple-languages (2.0.3)
     jekyll-optional-front-matter (0.2.0)
       jekyll (~> 3.0)
     jekyll-paginate (1.1.0)
@@ -219,7 +220,9 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages (= 163)
+  jekyll-multiple-languages
   jekyll-paginate
+  jekyll-sitemap
 
 BUNDLED WITH
    1.16.1
