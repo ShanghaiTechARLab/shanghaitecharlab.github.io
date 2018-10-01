@@ -2,7 +2,7 @@
 layout: page
 title: News
 permalink: /news/
-subtitle: 实验室新闻
+subtitle: What's going on in AR Lab
 ---
 
 <span style="font-size: 15px !important; color: #BD0026;">2018年8月31日</span> 
