@@ -85,6 +85,11 @@ subtitle: 现任实验室成员
 就读于上海科技大学信息科学与技术学院计算机科学与技术专业。擅长网站制作与维护，正在学习机器学习项目的开发。对商业模式和消费者行为学有兴趣，目前主要为实验室网站提供技术支持。
 <br><br>
 
+<b><span style="font-size: 20px !important; color: #4B0082;">曹龄云</span></b><br>
+<div align="center"><img src="images/GeZhang.png" width="200" align="center" /></div><br>
+就读于上海科技大学信息科学与技术学院计算机科学与技术专业。理想是做游戏或者搞安全，目前在学习Maya和Blender。前后端也学习过一些知识。
+<br><br>
+
 
 
 
