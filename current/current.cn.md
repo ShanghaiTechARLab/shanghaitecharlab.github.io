@@ -86,7 +86,7 @@ subtitle: 现任实验室成员
 <br><br>
 
 <b><span style="font-size: 20px !important; color: #4B0082;">曹龄云</span></b><br>
-<div align="center"><img src="images/GeZhang.png" width="200" align="center" /></div><br>
+<div align="center"><img src="images/CaolingYun.png" width="200" align="center" /></div><br>
 就读于上海科技大学信息科学与技术学院计算机科学与技术专业。理想是做游戏或者搞安全，目前在学习Maya和Blender。前后端也学习过一些知识。
 <br><br>
 
