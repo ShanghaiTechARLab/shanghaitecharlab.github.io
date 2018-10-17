@@ -85,7 +85,7 @@ Jiaming is a sophomore in Biology @ShanghaiTech. She is interested in studying B
 <br><br>
 
 
-<b><span style="font-size: 25px !important; color: #1E90FF;">Team Blue：Technology Support</span></b>
+<b><span style="font-size: 25px !important; color: #1E90FF;">Team Blue：Technology Support</span></b><br>
 <span style="font-size: 22px !important; color: #1E90FF;">蓝组：技术支持团队</span>
 <hr>
 
