@@ -25,17 +25,19 @@ subtitle: Current Members
 <span style="font-size: 22px !important; color: #CD5C5C;">红组：智能组</span>
 <hr>
 <b><span style="font-size: 20px !important; color: #4B0082;">方志欣 Zhixin Fang</span></b><br>
-<span style="font-size: 20px !important; color: #4B0082;">CS 2017</span><br>
+<span style="font-size: 16px !important; color: #4B0082;">计算机科学 2017级本科(CS 2017)</span><br>
 <div align="center"><img src="images/ZhixinFang.jpg" width="200" align="center" /></div><br>
 就读于上海科技大学信息科学与技术学院计算机科学专业。对心理和行为的分析极其有兴趣，正在学习行为学建模和C语言编程。网络社交相关话题的idea generator，最近致力于目标梯度(goal gradients)相关的研究。
 <br><br>
 
-<b><span style="font-size: 20px !important; color: #4B0082;">Haoyu Liu</span></b><br>
+<b><span style="font-size: 20px !important; color: #4B0082;">刘浩宇 Haoyu Liu</span></b><br>
+<span style="font-size: 16px !important; color: #4B0082;">电子信息 2016级本科(EE 2016)</span><br>
 <div align="center"><img src="images/HaoyuLiu.jpg" width="200" align="center" /></div><br>
 就读于上海科技大学信息科学与技术学院电子信息工程专业。理想成为一名心理学研究者，正在努力学习实验心理学和行为科学统计方面相关知识，希望能够在实验心理学相关方向有所发展。擅长于实验设计，使用多元研究方法，对于各种现代社会现象都有一定的了解和兴趣。
 <br><br>
 
-<b><span style="font-size: 20px !important; color: #4B0082;">Xue Fang</span></b><br>
+<b><span style="font-size: 20px !important; color: #4B0082;">方雪 Xue Fang</span></b><br>
+<span style="font-size: 16px !important; color: #4B0082;">化学 2015级本科(Chemistry 2015)</span><br>
 <div align="center"><img src="images/XueFang.jpg" width="200" align="center" /></div><br>
 Xue is a fourth year student of school of physical science and technology in ShanghaiTech, major in chemistry, minor in innovation and entrepreneurship. Taking taekwondo, painting, piano and traveling as hobbies, Xue has a comprehensive background. Willing to challenge new field, also good at observing and analyzing details, she prefers to be an instructor in the future. Presently, she is working on educational psychology, habit formation and the recovery of failure, trying to develop a more effective education mode through research so as to help those who have trouble persisting on a task realize their goals.
 <br><br>
