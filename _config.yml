@@ -27,8 +27,9 @@ navbar-links:
   About: ""
   News: "news"
   People: 
-    - Current: "current"
-    - Alumni: "alumni"
+    - Current Members: "current"
+    - Lab Alumni: "alumni"
+    - Lab Visitors: "Visitors"
   # Publication: "shanghaitecharlab.github.io/publication/"
   Research: "research"
   Join Us: "join"
