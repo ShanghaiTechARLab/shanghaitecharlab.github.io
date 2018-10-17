@@ -45,7 +45,7 @@ subtitle: Current Members
 Xue is a fourth year student of school of physical science and technology in ShanghaiTech, major in chemistry, minor in innovation and entrepreneurship. Taking taekwondo, painting, piano and traveling as hobbies, Xue has a comprehensive background. Willing to challenge new field, also good at observing and analyzing details, she prefers to be an instructor in the future. Presently, she is working on educational psychology, habit formation and the recovery of failure, trying to develop a more effective education mode through research so as to help those who have trouble persisting on a task realize their goals.
 <br><br>
 
-<b><span style="font-size: 20px !important; color: #4B0082;">陶天立 TianliTao</span></b><br>
+<b><span style="font-size: 20px !important; color: #4B0082;">陶天立 Tianli Tao</span></b><br>
 <span style="font-size: 16px !important; color: #4B0082;">电子信息 2017级本科 (EE 2017)</span><br>
 <div align="center"><img src="images/TianliTao.jpg" width="200" align="center" /></div><br>
 I am interested in studying online consumer behavior. By examining information available in Big Data, I wish to be able to develop a deeper understanding of how and why online consumers do what they do. I am interested in online data crawling, data analysis and integration. My dream is to be a foodie who can eat freely and never worries about gaining unnecessary weight. I am good at Selenium, Docker, etc. I love our lab. 
@@ -125,7 +125,7 @@ I’m an undergraduate student who is eager to comprehend the world. In addition
 <b><span style="font-size: 20px !important; color: #4B0082;">王悦豪 Yuehao Wang</span></b><br>
 <span style="font-size: 16px !important; color: #4B0082;">计算机 2017级本科 (CS 2017)</span><br>
 <div align="center"><img src="images/YuehaoWang.jpg" width="200" align="center" /></div><br>
-A naive undergraduate majored in Computer Science who is a hardcore of open-source, keen on science and mathematics, curious about nature and humanity, and a dream pursuer. 
+I am an undergraduate student majoring in Computer Science who is a hardcore of open-source, keen on science and mathematics, curious about nature and humanity, and a dream pursuer. 
 <br><br>
 
 
