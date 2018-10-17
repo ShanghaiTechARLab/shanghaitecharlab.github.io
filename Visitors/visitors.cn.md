@@ -4,7 +4,7 @@ title: People
 permalink: /Visitors/
 subtitle: AR Lab Visitors
 ---
-<b><span style="font-size: 25px !important; color: 	#326A11;">Visitors</span></b>
+<b><span style="font-size: 25px !important; color: 	#326A11;">Lab Visitors</span></b>
 
 <hr>
 <b><span style="font-size: 20px !important; color: #4B0082;">Frenk van Harreveld</span></b><br>
