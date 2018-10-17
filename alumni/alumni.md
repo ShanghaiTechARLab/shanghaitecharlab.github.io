@@ -4,7 +4,7 @@ title: People
 permalink: /alumni/
 subtitle: AR Lab Alumni
 ---
-<b><span style="font-size: 25px !important; color: 	#326A11;">Visitors</span></b>
+<b><span style="font-size: 25px !important; color: 	#326A11;">Lab Alumni</span></b>
 <hr>
 <b><span style="font-size: 20px !important; color: #4B0082;">Ji Xia</span></b><br>
 <div align="center"><img src="images/JiXia_Large.jpg" width="200" align="center" /></div><br>
