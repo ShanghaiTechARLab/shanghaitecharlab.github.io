@@ -1,7 +1,7 @@
 ---
 layout: page
 title: People
-permalink: /current/
+permalink: /Current Members/
 subtitle: Current Members
 ---
 
