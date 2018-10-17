@@ -1,8 +1,8 @@
 ---
 layout: page
 title: People
-permalink: /current/
-subtitle: 现任实验室成员
+permalink: /Visitors/
+subtitle: 访问学者
 ---
 
 <b><span style="font-size: 25px !important; color: #B8860B;">研究员</span></b>
