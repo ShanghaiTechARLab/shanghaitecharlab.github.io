@@ -16,7 +16,7 @@ Ji’s research focuses on how motivational forces (goals, evolutionary needs, e
 <hr>
 <b><span style="font-size: 20px !important; color: #4B0082;">Zhenrong (Neo) Chen</span></b><br>
 <div align="center"><img src="images/ZhenrongChen.jpg" width="200" align="center" /></div><br>
-Zhenrong Chen (B.S. 2018, Biological Science, ShanghaiTech University) was one of the first members of ARLab, and is currently pursuing Master of Engineering Degree in Biomedical Engineering at the Nancy E. and Peter C. Meinig School of Biomedical Engineering at Cornell University. Realizing the potential challenges and prospects in technique management integration in the biological field, he hopes to enter a scientific consulting company after the program at Cornell. 
+&nbsp Zhenrong Chen (B.S. 2018, Biological Science, ShanghaiTech University) was one of the first members of ARLab, and is currently pursuing Master of Engineering Degree in Biomedical Engineering at the Nancy E. and Peter C. Meinig School of Biomedical Engineering at Cornell University. Realizing the potential challenges and prospects in technique management integration in the biological field, he hopes to enter a scientific consulting company after the program at Cornell. 
 <br><br>
 
 
