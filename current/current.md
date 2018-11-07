@@ -99,7 +99,7 @@ Jiaming is a sophomore in Biology @ShanghaiTech. She is interested in studying B
 <br><br>
 
 <b><span style="font-size: 20px !important; color: #4B0082;">张星雅 Xingya Zhang</span></b><br>
-<span style="font-size: 16px !important; color: #4B0082;">计算机 2015级本科 (CS 2015)</span><br>
+<span style="font-size: 16px !important; color: #4B0082;">电子信息 2015级本科 (EE 2015)</span><br>
 <div align="center"><img src="images/XingyaZhang.jpg" width="200" align="center" /></div><br>
 目前就读于上海科技大学信息学院电子信息工程专业，同时辅修创管学院金融学。对于商业市场、消费者行为分析有强烈兴趣，擅长于整合处理、图形化大量数据信息并加以分析。近期内致力于消费方式相关的研究。
 <br><br>
