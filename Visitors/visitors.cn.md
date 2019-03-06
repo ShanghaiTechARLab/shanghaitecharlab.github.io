@@ -21,7 +21,7 @@ I'm a South Dakota native who earned my PhD in social psychology with a minor in
 <hr>
 <b><span style="font-size: 20px !important; color: #4B0082;">方雪 Xue Fang</span></b><br>
 <span style="font-size: 16px !important; color: #4B0082;">化学 2015级本科 (Chemistry 2015)</span><br>
-<div align="center"><img src="images/XueFang.jpg" width="200" align="center" /></div><br>
+<div align="center"><img src="../current/images/XueFang.jpg" width="200" align="center" /></div><br>
 Xue is a fourth year student of school of physical science and technology in ShanghaiTech, major in chemistry, minor in innovation and entrepreneurship. Taking taekwondo, painting, piano and traveling as hobbies, Xue has a comprehensive background. Willing to challenge new field, also good at observing and analyzing details, she prefers to be an instructor in the future. Presently, she is working on educational psychology, habit formation and the recovery of failure, trying to develop a more effective education mode through research so as to help those who have trouble persisting on a task realize their goals.
 <br><br>
 
