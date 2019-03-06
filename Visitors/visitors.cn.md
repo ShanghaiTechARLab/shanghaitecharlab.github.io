@@ -28,14 +28,14 @@ Xue is a fourth year student of school of physical science and technology in Sha
 <hr>
 <b><span style="font-size: 20px !important; color: #4B0082;">曾理 Li Zeng</span></b><br>
 <span style="font-size: 16px !important; color: #4B0082;">计算机 2017级本科 (CS 2017)</span><br>
-<div align="center"><img src="images/LiZeng.jpg" width="200" align="center" /></div><br>
+<div align="center"><img src="../current/images/LiZeng.jpg" width="200" align="center" /></div><br>
 就读于上海科技大学信息科学与技术学院计算机科学与技术专业。热爱运动，擅长分析和计算。 理想是成为一名计算机科学领域研究人员。对社会心理学和人工智能有一定的兴趣，希望能在ARLab对相关课题做一定的研究，并积累自己的研究经验，锻炼研究能力。
 <br><br>
 
 <hr>
 <b><span style="font-size: 20px !important; color: #4B0082;">翁光源 Guangyuan (Gideon) Weng</span></b><br>
 <span style="font-size: 16px !important; color: #4B0082;">计算机 2017级本科 (CS 2017)</span><br>
-<div align="center"><img src="images/GuangyuanWeng.jpg" width="200" align="center" /></div><br>
+<div align="center"><img src="../current/images/GuangyuanWeng.jpg" width="200" align="center" /></div><br>
 I’m an undergraduate student who is eager to comprehend the world. In addition to website and app development, I have a certain understanding of the visual art creation based on Processing. The application of machine learning in user behavior prediction and user value assessment also attracts me to a great extent.
 <br><br>
 
