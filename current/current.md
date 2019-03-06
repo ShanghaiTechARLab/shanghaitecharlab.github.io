@@ -90,7 +90,7 @@ Jiaming is a sophomore in Biology @ShanghaiTech. She is interested in studying B
 
 <b><span style="font-size: 20px !important; color: #4B0082;">黄豆豆 Doudou Huang</span></b><br>
 <span style="font-size: 16px !important; color: #4B0082;">生命科学 2017级本科 (Biology 2017)</span><br>
-<div align="center"><img src="images/JiamingGuo.jpg" width="200" align="center" /></div><br>
+<div align="center"><img src="images/DoudouHuang.jpg" width="200" align="center" /></div><br>
 As an undergraduate in ShanghaiTech University majoring in Biology and minoring in Business Administration, Diane joined AR-lab to learn in autumn 2018. Armed with a passion for science and an insatiable thirst for knowledge, she hopes to unravel some of the patterns and mysteries of human psychology. Diane is also interested in writing and anything and everything involving new media. When not at work in the lab, Diane enjoys being outdoors, listening to music, watching films and visiting galleries.
 <br><br>
 
