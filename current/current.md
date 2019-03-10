@@ -136,7 +136,7 @@ I am an undergraduate student majoring in Computer Science who is a hardcore of 
 
 
 <b><span style="font-size: 20px !important; color: #4B0082;">张启煊 Qixuan Zhang</span></b><br>
-<span style="font-size: 16px !important; color: #4B0082;">计算机 2017级本科 (CS 2017)</span><br>
+<span style="font-size: 16px !important; color: #4B0082;">计算机 2018级本科 (CS 2018)</span><br>
 <div align="center"><img src="images/QixuanZhang.png" width="200" align="center" /></div><br>
 就读于上海科技大学信息科学与技术学院计算机科学与技术专业。对商业模式和消费者行为学有兴趣，擅长算法设计、项目规划、平面设计、视频剪辑，目前正在向计算机视觉方向学习。
 <br><br>

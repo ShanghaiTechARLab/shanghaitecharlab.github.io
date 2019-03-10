@@ -3,8 +3,8 @@
   <channel>
     <title>AR Lab</title>
     <description></description>
-    <link>http://localhost:4000</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://www.ar-lab.cn</link>
+    <atom:link href="http://www.ar-lab.cn/feed.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
