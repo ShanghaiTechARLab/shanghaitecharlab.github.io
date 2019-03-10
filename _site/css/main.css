@@ -8,6 +8,7 @@ body {
   color: #404040;
   position: relative;
   background-color: #FFFFFF;
+  text-align: justify;
   
 }
 p {
@@ -764,4 +765,35 @@ td.gutter {
   color: #808080;
   font-style: italic;
   font-size: 16px;
+}
+
+/* Special */
+
+.zhangge {
+  filter: invert(0%);
+  transition: all 60.0s ease;
+}
+
+.zhangge:hover {
+  filter: invert(100%);
+  transition: all 60.0s ease;
+}
+
+.liumengyun img {
+  width: 60%;
+}
+
+.liumengyun img {
+  box-shadow: 0px 0px 0px 0px #FFFFFF;
+  transition: all 1.0s ease;
+}
+.liumengyun:hover img {
+  box-shadow: 1px 1px 150px 2px #000000;
+  transition: all 52.0s ease;
+}
+
+@media (max-width: 900px) {
+  .liumengyun img {
+    width: 90%;
+  }
 }

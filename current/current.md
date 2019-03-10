@@ -78,7 +78,7 @@ Jiaming is a sophomore in Biology @ShanghaiTech. She is interested in studying B
 <br><br>
 
 
-<b><span style="font-size: 20px !important; color: #4B0082;">黄豆豆 Doudou Huang</span></b><br>
+<b><span style="font-size: 20px !important; color: #4B0082;">黄豆豆 Diane Huang</span></b><br>
 <span style="font-size: 16px !important; color: #4B0082;">生命科学 2017级本科 (Biology 2017)</span><br>
 <div align="center"><img src="images/DoudouHuang.jpg" width="200" align="center" /></div><br>
 As an undergraduate in ShanghaiTech University majoring in Biology and minoring in Business Administration, Diane joined AR-lab to learn in autumn 2018. Armed with a passion for science and an insatiable thirst for knowledge, she hopes to unravel some of the patterns and mysteries of human psychology. Diane is also interested in writing and anything and everything involving new media. When not at work in the lab, Diane enjoys being outdoors, listening to music, watching films and visiting galleries.
@@ -109,15 +109,8 @@ As an undergraduate in ShanghaiTech University majoring in Biology and minoring 
 
 <b><span style="font-size: 20px !important; color: #4B0082;">张哿 Ge Zhang</span></b><br>
 <span style="font-size: 16px !important; color: #4B0082;">计算机 2017级本科 (CS 2017)</span><br>
-<div align="center"><img src="images/GeZhang.png" width="200" align="center" /></div><br>
+<div align="center"><img class="zhangge" src="images/GeZhang.png" width="200" align="center" /></div><br>
 就读于上海科技大学信息科学与技术学院计算机科学与技术专业。擅长网站制作与维护，正在学习机器学习项目的开发。对商业模式和消费者行为学有兴趣，目前主要为实验室网站提供技术支持。
-<br><br>
-
-
-<b><span style="font-size: 20px !important; color: #4B0082;">王悦豪 Yuehao Wang</span></b><br>
-<span style="font-size: 16px !important; color: #4B0082;">计算机 2017级本科 (CS 2017)</span><br>
-<div align="center"><img src="images/YuehaoWang.jpg" width="200" align="center" /></div><br>
-I am an undergraduate student majoring in Computer Science who is a hardcore of open-source, keen on science and mathematics, curious about nature and humanity, and a dream pursuer. 
 <br><br>
 
 
@@ -128,10 +121,24 @@ I am an undergraduate majoring in Computer Science and concern games and securit
 <br><br>
 
 
-<b><span style="font-size: 20px !important; color: #4B0082;">刘梦云 Mengyun Liu</span></b><br>
-<span style="font-size: 16px !important; color: #4B0082;">计算机 2018级本科 (CS2017)</span><br>
-<div align="center"><img src="images/MengyunLiu.jpg" width="200" align="center" /></div><br>
+<b><span style="font-size: 22px !important; color: #4B0082;">刘梦云 Mengyun Liu</span></b><br>
+<span style="font-size: 16px !important; color: #4B0082;">计算机 2018级本科 (CS 2018)</span><br>
+<div align="center" class="liumengyun"><img src="images/MengyunLiu.png" align="center" /></div><br>
 I am an undergraduate student majoring in Computer Science who is a naive learner, but curious on these useful and magical techniques,  and always a dreamer.
+<br><br>
+
+
+<b><span style="font-size: 20px !important; color: #4B0082;">王悦豪 Yuehao Wang</span></b><br>
+<span style="font-size: 16px !important; color: #4B0082;">计算机 2017级本科 (CS 2017)</span><br>
+<div align="center"><img src="images/YuehaoWang.jpg" width="200" align="center" /></div><br>
+I am an undergraduate student majoring in Computer Science who is a hardcore of open-source, keen on science and mathematics, curious about nature and humanity, and a dream pursuer. 
+<br><br>
+
+
+<b><span style="font-size: 20px !important; color: #4B0082;">张启煊 Qixuan Zhang</span></b><br>
+<span style="font-size: 16px !important; color: #4B0082;">计算机 2017级本科 (CS 2017)</span><br>
+<div align="center"><img src="images/QixuanZhang.png" width="200" align="center" /></div><br>
+就读于上海科技大学信息科学与技术学院计算机科学与技术专业。对商业模式和消费者行为学有兴趣，擅长算法设计、项目规划、平面设计、视频剪辑，目前正在向计算机视觉方向学习。
 <br><br>
 
 
