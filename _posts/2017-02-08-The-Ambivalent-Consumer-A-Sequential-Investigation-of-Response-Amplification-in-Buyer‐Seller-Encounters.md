@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Ambivalent Consumer A Sequential Investigation of...
+title: The Ambivalent Consumer A Sequential Investigation of Response Amplification in Buyer‐Seller Encounters
 ---
 <h2>{{ page.title }}</h2>
 
