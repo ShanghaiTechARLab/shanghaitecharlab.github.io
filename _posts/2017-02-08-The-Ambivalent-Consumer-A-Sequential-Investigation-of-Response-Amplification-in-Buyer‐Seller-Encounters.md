@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 111
+title: The Ambivalent Consumer A Sequential Investigation of...
 ---
 <h2>{{ page.title }}</h2>
 
