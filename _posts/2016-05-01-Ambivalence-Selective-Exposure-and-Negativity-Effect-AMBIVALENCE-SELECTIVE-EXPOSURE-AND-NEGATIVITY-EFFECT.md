@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ambivalence Selective Exposure and Negativity Effect AMBIVALENCE SELECTIVE EXPOSURE AND NEGATIVITY EFFECT
+title: Ambivalence Selective Exposure and Negativity Effect
 ---
 <h2>{{ page.title }}</h2>
 
