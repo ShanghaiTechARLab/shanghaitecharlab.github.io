@@ -4,7 +4,7 @@ title: Ambivalence Selective Exposure and Negativity Effect
 ---
 <h2>{{ page.title }}</h2>
 
-<p>{{ page.date | date_to_string }}</p>
+<p></p>
 
 <p><object classid="clsid:CA8A9780-280D-11CF-A24D-444553540000" width="1000" height="1200" border="0">  
     <param name="_Version" value="65539">  
