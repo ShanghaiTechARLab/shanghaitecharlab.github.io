@@ -85,6 +85,15 @@ As an undergraduate in ShanghaiTech University majoring in Biology and minoring 
 <br><br>
 
 
+<b><span style="font-size: 20px !important; color: #4B0082;">苗雨欣 Yuxin Miao</span></b><br>
+<span style="font-size: 16px !important; color: #4B0082;">计算机 2017级本科 (CS 2017)</span><br>
+<div align="center"><img src="images/YuxinMiao.jpg" width="200" align="center" /></div><br>
+目前就读于上海科技大学科学与技术学院计算机科学专业，擅长团队工作的协调，项目活动的整体计划。未来希望从事咨询工作，对个体在不同的经济活动中的心理变化对最终结果的影响感兴趣，并且希望能够运用计算机技术协助分析不同态度对于决策结果的影响。<br>
+I major in Computer Science in SIST. In our lab, I have been working in generating creative methods to produce effective event planning, group work coordination, and logistic arrangements.  I am interested in studying how change within an individual’s aspiration affects their behavior in business. I would like to work in financial/consulting field in the future. 
+<br><br>
+
+
+
 <b><span style="font-size: 25px !important; color: #1E90FF;">Team Blue：Technology Support</span></b><br>
 <span style="font-size: 22px !important; color: #1E90FF;">蓝组：技术支持团队</span>
 <hr>
