@@ -151,4 +151,12 @@ I am an undergraduate student majoring in Computer Science who is a hardcore of 
 <br><br>
 
 
+<b><span style="font-size: 20px !important; color: #4B0082;">肖子坤 Zikun Xiao</span></b><br>
+<span style="font-size: 16px !important; color: #4B0082;">计算机 2016级本科 (CS 2018)</span><br>
+<div align="center"><img src="images/XiaoZikun.png" width="200" align="center" /></div><br>
+就读于上海科技大学信息学院计算机科学与技术专业，辅修创新与创业专业。擅长数据挖掘，市场分析，产品设计与实验设计。正在学习有关机器学习与消费者心理的相关知识。对大数据与机器学习应用于研究消费者行为的领域感兴趣。<br>
+As an undergraduate majoring in Computer Science and Technology and minoring in Innovation and Entrepreneurship, Xiao is skilled in data mining, marketing analysis, communication design and experimental design. After joining in AR-Lab in the Spring of 2018, Xiao has been passionate about machine learning and consumer psychology. He is interested in the application of big data and machine learning to studying consumer behavior.
+<br><br>
+
+
 
