@@ -49,7 +49,7 @@ subtitle: AR Lab Alumni
 <b><span style="font-size: 20px !important; color: #4B0082;">曹龄云 Lingyun Cao</span></b><br>
 <span style="font-size: 16px !important; color: #4B0082;">计算机 2015级本科 (CS 2015)</span><br>
 <div align="center"><img src="images/CaolingYun.png" width="200" align="center" /></div><br>
-I am an undergraduate majoring in Computer Science and concern games and security. Experiences about websites have been obtained. Recently, I am learning Maya and Blender.
+毕业于上海科技大学信息科学与技术学院计算机科学与技术专业。现在在某外企担任技术支持。
 <br><br>
 
 
