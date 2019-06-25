@@ -43,7 +43,9 @@ subtitle: AR Lab Alumni
 <b><span style="font-size: 20px !important; color: #4B0082;">曾祥琛 Xiangchen Zeng</span></b><br>
 <span style="font-size: 16px !important; color: #4B0082;">计算机 2015级本科 (CS 2015)</span><br>
 <div align="center"><img src="images/XiangchenZeng.jpg" width="200" align="center" /></div><br>
-就读于上海科技大学信息科学与技术学院计算机科学与技术专业。理想成为一名独立游戏开发者，正在努力学习计算机图形学和相关技术，同时对心理学也有一定的兴趣和研究。擅长头脑风暴和网站运维。希望通过实验室经历加强自己的开发水平和思考能力。
+毕业于上海科技大学信息科学与技术学院计算机科学与技术专业。理想成为一名独立游戏开发者，正在努力学习计算机图形学和相关技术，同时对心理学也有一定的兴趣和研究。擅长头脑风暴和网站运维。希望通过实验室经历加强自己的开发水平和思考能力。
+<br>
+去向：游戏公司担任策划
 <br><br>
 
 <b><span style="font-size: 20px !important; color: #4B0082;">曹龄云 Lingyun Cao</span></b><br>
