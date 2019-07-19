@@ -74,6 +74,13 @@ I major in Computer Science in SIST. In our lab, I have been working in generati
 <br><br>
 
 
+<b><span style="font-size: 20px !important; color: #4B0082;">李家齐 Jiaqi Li</span></b><br>
+<span style="font-size: 16px !important; color: #4B0082;">电子信息 2017级本科 (EE 2017)</span><br>
+<div align="center"><img src="images/JiaqiLi.jpg" width="200" align="center" /></div><br>
+目前就读于上海科技大学科学与技术学院电子信息工程专业。我对研究人们如何思考问题以及他们的行为方式非常感兴趣。我在《人类行为科学》这门课上认识了杨老师并在后来加入了实验室。我很喜欢实验室的氛围，也很喜欢实验室的小伙伴们。<br>
+I major in electronic engineering in SIST. I'm very interested in studying how people think and how they behave. I like the atmosphere of the laboratory and truly enjoy working with other ARLabers. 
+<br><br>
+
 
 <b><span style="font-size: 25px !important; color: #1E90FF;">Team Blue：Technology Support</span></b><br>
 <span style="font-size: 22px !important; color: #1E90FF;">蓝组：技术支持团队</span>
