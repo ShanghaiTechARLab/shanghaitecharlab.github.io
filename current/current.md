@@ -81,6 +81,8 @@ I major in Computer Science in SIST. In our lab, I have been working in generati
 I major in electronic engineering in SIST. I'm very interested in studying how people think and how they behave. I like the atmosphere of the laboratory and truly enjoy working with other ARLabers. 
 <br><br>
 
+<br><br>
+
 
 <b><span style="font-size: 25px !important; color: #1E90FF;">Team Blue：Technology Support</span></b><br>
 <span style="font-size: 22px !important; color: #1E90FF;">蓝组：技术支持团队</span>
