@@ -29,6 +29,7 @@ subtitle: Welcome to join us!
 <b>三、工作条件与工资待遇</b>
 按照上海科技大学相关规定执行，根据个人具体情况，提供具有竞争力的薪酬和福利。
 <br>
+<br>
 <b>四、申请方式</b>
 <ul>
 <li>请应聘者通过邮件形式提交预申请材料发送至：yanglf@shanghaitech.edu.cn。</li>
