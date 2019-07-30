@@ -37,8 +37,8 @@ subtitle: Welcome to join us!
 </ol>
 <br>
 应聘时间：发布广告之日起，招满为止。
-<ol>
+<ul>
 <li>对初审通过者，将另行通知面试时间。</li>
 <li>招满即止。</li>
-</ol>
+</ul>
 <br>
