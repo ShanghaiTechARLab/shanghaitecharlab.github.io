@@ -4,6 +4,9 @@ title: News
 permalink: /news/
 subtitle: What's going on in AR Lab
 ---
+<span style="font-size: 15px !important; color: #BD0026;">2019年8月12日</span> 
+### [Conference Announcement: Welcome to ISARIM 2019!](http://arlab.sem.shanghaitech.edu.cn/isarim/)
+<div align="center"><img src="images/ISARIM_2019.PNG" width="600" align="center" /></div><br>
 
 <span style="font-size: 15px !important; color: #BD0026;">2018年8月31日</span> 
 ### Lecture Announcement: The ABC of Ambivalence: Affective, Behavioral, and Cognitive Consequences of Attitudinal Conflict
