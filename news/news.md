@@ -4,6 +4,11 @@ title: News
 permalink: /news/
 subtitle: What's going on in AR Lab
 ---
+<span style="font-size: 15px !important; color: #BD0026;">2019年9月3日</span> 
+### 18级本科生问卷结果反馈——情感问题篇
+[click me](/_posts/杰哥)
+
+
 <span style="font-size: 15px !important; color: #BD0026;">2019年8月12日</span> 
 ### [Conference Announcement: Welcome to ISARIM 2019!](http://arlab.sem.shanghaitech.edu.cn/isarim/)
 <div align="center"><img src="images/ISARIM_2019.PNG" width="600" align="center" /></div><br>
