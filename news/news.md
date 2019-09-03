@@ -6,7 +6,7 @@ subtitle: What's going on in AR Lab
 ---
 <span style="font-size: 15px !important; color: #BD0026;">2019年9月3日</span> 
 ### 18级本科生问卷结果反馈——情感问题篇
-[click me](www.ar-lab.cn/_posts/杰哥.md)
+[click me](https://www.ar-lab.cn/2019-09-03-result/)
 
 
 <span style="font-size: 15px !important; color: #BD0026;">2019年8月12日</span> 
