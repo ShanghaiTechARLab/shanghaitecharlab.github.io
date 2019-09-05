@@ -5,7 +5,8 @@ permalink: /current/
 subtitle: Current Members
 ---
 
-<b><span style="font-size: 25px !important; color: #B8860B;">Principle Investigator 研究员</span></b>
+<b><span style="font-size: 25px !important; color: #B8860B;">Principle Investigator</span></b><br>
+<b><span style="font-size: 25px !important; color: #B8860B;">研究员</span></b>
 <hr>
 <p id="lifeng"></p>
 <b><span style="font-size: 20px !important; color: 	#4B0082;">杨丽凤 Lifeng Yang<br></span></b>
@@ -23,8 +24,7 @@ subtitle: Current Members
 现为上海科技大学创业与管理学院杨丽凤副教授的研究助理，以及态度研究实验室管理员。主要负责研究辅助以及实验室运营的工作。
 <br><br>
 
-<b><span style="font-size: 25px !important; color: 	#CD5C5C;">Team Red：Intelligence Research</span></b><br>
-<span style="font-size: 22px !important; color: #CD5C5C;">红组：智能组</span>
+<span style="font-size: 22px !important; color: #CD5C5C;">红带</span>
 <hr>
 
 <b><span style="font-size: 20px !important; color: #4B0082;">方志欣 Zhixin Fang</span></b><br>
@@ -46,6 +46,74 @@ subtitle: Current Members
 I am interested in studying online consumer behavior. By examining information available in Big Data, I wish to be able to develop a deeper understanding of how and why online consumers do what they do. I am interested in online data crawling, data analysis and integration. My dream is to be a foodie who can eat freely and never worries about gaining unnecessary weight. I am good at Selenium, Docker, etc. I love our lab. 
 <br><br>
 
+
+<b><span style="font-size: 20px !important; color: #4B0082;">肖子坤 Zikun Xiao</span></b><br>
+<span style="font-size: 16px !important; color: #4B0082;">计算机 2016级本科 (CS 2016)</span><br>
+<div align="center"><img src="images/XiaoZikun.png" width="200" align="center" /></div><br>
+就读于上海科技大学信息学院计算机科学与技术专业，辅修创新与创业专业。擅长数据挖掘，市场分析，产品设计与实验设计。正在学习有关机器学习与消费者心理的相关知识。对大数据与机器学习应用于研究消费者行为的领域感兴趣。<br>
+As an undergraduate majoring in Computer Science and Technology and minoring in Innovation and Entrepreneurship, Xiao is skilled in data mining, marketing analysis, communication design and experimental design. After joining in AR-Lab in the Spring of 2018, Xiao has been passionate about machine learning and consumer psychology. He is interested in the application of big data and machine learning to studying consumer behavior.
+<br><br>
+
+<b><span style="font-size: 20px !important; color: #4B0082;">苗雨欣 Yuxin Miao</span></b><br>
+<span style="font-size: 16px !important; color: #4B0082;">计算机 2017级本科 (CS 2017)</span><br>
+<div align="center"><img src="images/YuxinMiao.jpg" width="200" align="center" /></div><br>
+目前就读于上海科技大学科学与技术学院计算机科学专业，擅长团队工作的协调，项目活动的整体计划。未来希望从事咨询工作，对个体在不同的经济活动中的心理变化对最终结果的影响感兴趣，并且希望能够运用计算机技术协助分析不同态度对于决策结果的影响。<br>
+I major in Computer Science in SIST. In our lab, I have been working in generating creative methods to produce effective event planning, group work coordination, and logistic arrangements.  I am interested in studying how change within an individual’s aspiration affects their behavior in business. I would like to work in financial/consulting field in the future. 
+<br><br>
+
+
+<span style="font-size: 22px !important; color: #1E90FF;">蓝带</span>
+<hr>
+
+<b><span style="font-size: 20px !important; color: #4B0082;">成昂 Ang Cheng</span></b><br>
+<span style="font-size: 16px !important; color: #4B0082;">计算机 2017级本科 (CS 2017)</span><br>
+<div align="center"><img src="images/AngCheng.jpg" width="200" align="center" /></div><br>
+就读于上海科技大学信息科学与技术学院计算机科学专业。热爱动画、摄影，曾经参加过数部微电影与短片的制作。擅长视频制作，团队协作。正在学习游戏开发。对大众心理学、商业市场有很强的兴趣。目前正在寻找自己感兴趣的课题，同时对组内的其他同学进行技术支持。
+<br><br>
+
+
+<b><span style="font-size: 20px !important; color: #4B0082;">王悦豪 Yuehao Wang</span></b><br>
+<span style="font-size: 16px !important; color: #4B0082;">计算机 2017级本科 (CS 2017)</span><br>
+<div align="center"><img src="images/YuehaoWang.jpg" width="200" align="center" /></div><br>
+I am an undergraduate student majoring in Computer Science who is a hardcore of open-source, keen on science and mathematics, curious about nature and humanity, and a dream pursuer. 
+<br><br>
+
+
+<b><span style="font-size: 20px !important; color: #4B0082;">张启煊 Qixuan Zhang</span></b><br>
+<span style="font-size: 16px !important; color: #4B0082;">计算机 2018级本科 (CS 2018)</span><br>
+<div align="center"><img src="images/QixuanZhang.png" width="200" align="center" /></div><br>
+就读于上海科技大学信息科学与技术学院计算机科学与技术专业。对商业模式和消费者行为学有兴趣，擅长算法设计、项目规划、平面设计、视频剪辑，目前正在向计算机视觉方向学习。
+<br><br>
+
+
+<span style="font-size: 22px !important; color: #00FF7F;">青葱成长时</span>
+<hr>
+
+<b><span style="font-size: 22px !important; color: #4B0082;">刘梦云 Mengyun Liu</span></b><br>
+<span style="font-size: 16px !important; color: #4B0082;">计算机 2018级本科 (CS 2018)</span><br>
+<div align="center" class="liumengyun"><img src="images/MengyunLiu.png" align="center" /></div><br>
+I am an undergraduate student majoring in Computer Science who is a naive learner, but curious on these useful and magical techniques,  and always a dreamer.
+<br><br>
+
+<b><span style="font-size: 20px !important; color: #4B0082;">李家齐 Jiaqi Li</span></b><br>
+<span style="font-size: 16px !important; color: #4B0082;">电子信息 2017级本科 (EE 2017)</span><br>
+<div align="center"><img src="images/JiaqiLi.jpg" width="200" align="center" /></div><br>
+目前就读于上海科技大学科学与技术学院电子信息工程专业。我对研究人们如何思考问题以及他们的行为方式非常感兴趣。我在《人类行为科学》这门课上认识了杨老师并在后来加入了实验室。我很喜欢实验室的氛围，也很喜欢实验室的小伙伴们。<br>
+I major in electronic engineering in SIST. I'm very interested in studying how people think and how they behave. I like the atmosphere of the laboratory and truly enjoy working with other ARLabers. 
+<br><br>
+
+<b><span style="font-size: 22px !important; color: #4B0082;">彭绍庭 Shaoting Peng</span></b><br>
+<span style="font-size: 16px !important; color: #4B0082;">计算机 2018级本科 (CS 2018)</span><br>
+<div align="center"><img src="images/ShaotingPeng.jpg" width="300" align="center" /></div><br>
+就读于上海科技大学信息科学与技术学院计算机科学与技术专业。喜欢运动、旅游、吉他和海绵宝宝。对很多事情感兴趣，认准的事会努力去做好。
+
+I am an undergraduate student majoring in Computer Science. I like sports, traveling, guitar and SpongeBob SquarePants. I’m interested in many aspects and I’ll do my best to fulfill my dream.
+<br><br>
+
+
+<span style="font-size: 22px !important; color: #00CCFF;">游走江湖群</span>
+<hr>
+
 <b><span style="font-size: 20px !important; color: #4B0082;">石兆杰 Zhaojie Shi</span></b><br>
 <span style="font-size: 16px !important; color: #4B0082;">材料 2016级本科 (Material Science 2016)</span><br>
 <div align="center"><img src="images/ZhaojieShi.jpg" width="200" align="center" /></div><br>
@@ -66,67 +134,10 @@ As an undergraduate in ShanghaiTech University majoring in Biology and minoring 
 <br><br>
 
 
-<b><span style="font-size: 20px !important; color: #4B0082;">苗雨欣 Yuxin Miao</span></b><br>
-<span style="font-size: 16px !important; color: #4B0082;">计算机 2017级本科 (CS 2017)</span><br>
-<div align="center"><img src="images/YuxinMiao.jpg" width="200" align="center" /></div><br>
-目前就读于上海科技大学科学与技术学院计算机科学专业，擅长团队工作的协调，项目活动的整体计划。未来希望从事咨询工作，对个体在不同的经济活动中的心理变化对最终结果的影响感兴趣，并且希望能够运用计算机技术协助分析不同态度对于决策结果的影响。<br>
-I major in Computer Science in SIST. In our lab, I have been working in generating creative methods to produce effective event planning, group work coordination, and logistic arrangements.  I am interested in studying how change within an individual’s aspiration affects their behavior in business. I would like to work in financial/consulting field in the future. 
-<br><br>
-
-
-<b><span style="font-size: 20px !important; color: #4B0082;">李家齐 Jiaqi Li</span></b><br>
-<span style="font-size: 16px !important; color: #4B0082;">电子信息 2017级本科 (EE 2017)</span><br>
-<div align="center"><img src="images/JiaqiLi.jpg" width="200" align="center" /></div><br>
-目前就读于上海科技大学科学与技术学院电子信息工程专业。我对研究人们如何思考问题以及他们的行为方式非常感兴趣。我在《人类行为科学》这门课上认识了杨老师并在后来加入了实验室。我很喜欢实验室的氛围，也很喜欢实验室的小伙伴们。<br>
-I major in electronic engineering in SIST. I'm very interested in studying how people think and how they behave. I like the atmosphere of the laboratory and truly enjoy working with other ARLabers. 
-<br><br>
-
-<br><br>
-
-
-<b><span style="font-size: 25px !important; color: #1E90FF;">Team Blue：Technology Support</span></b><br>
-<span style="font-size: 22px !important; color: #1E90FF;">蓝组：技术支持团队</span>
-<hr>
-
-<b><span style="font-size: 20px !important; color: #4B0082;">成昂 Ang Cheng</span></b><br>
-<span style="font-size: 16px !important; color: #4B0082;">计算机 2017级本科 (CS 2017)</span><br>
-<div align="center"><img src="images/AngCheng.jpg" width="200" align="center" /></div><br>
-就读于上海科技大学信息科学与技术学院计算机科学专业。热爱动画、摄影，曾经参加过数部微电影与短片的制作。擅长视频制作，团队协作。正在学习游戏开发。对大众心理学、商业市场有很强的兴趣。目前正在寻找自己感兴趣的课题，同时对组内的其他同学进行技术支持。
-<br><br>
-
 <b><span style="font-size: 20px !important; color: #4B0082;">张哿 Ge Zhang</span></b><br>
 <span style="font-size: 16px !important; color: #4B0082;">计算机 2017级本科 (CS 2017)</span><br>
 <div align="center"><img class="zhangge" src="images/GeZhang.png" width="200" align="center" /></div><br>
 就读于上海科技大学信息科学与技术学院计算机科学与技术专业。擅长网站制作与维护，正在学习机器学习项目的开发。对商业模式和消费者行为学有兴趣，目前主要为实验室网站提供技术支持。
 <br><br>
-
-<b><span style="font-size: 22px !important; color: #4B0082;">刘梦云 Mengyun Liu</span></b><br>
-<span style="font-size: 16px !important; color: #4B0082;">计算机 2018级本科 (CS 2018)</span><br>
-<div align="center" class="liumengyun"><img src="images/MengyunLiu.png" align="center" /></div><br>
-I am an undergraduate student majoring in Computer Science who is a naive learner, but curious on these useful and magical techniques,  and always a dreamer.
-<br><br>
-
-
-<b><span style="font-size: 20px !important; color: #4B0082;">王悦豪 Yuehao Wang</span></b><br>
-<span style="font-size: 16px !important; color: #4B0082;">计算机 2017级本科 (CS 2017)</span><br>
-<div align="center"><img src="images/YuehaoWang.jpg" width="200" align="center" /></div><br>
-I am an undergraduate student majoring in Computer Science who is a hardcore of open-source, keen on science and mathematics, curious about nature and humanity, and a dream pursuer. 
-<br><br>
-
-
-<b><span style="font-size: 20px !important; color: #4B0082;">张启煊 Qixuan Zhang</span></b><br>
-<span style="font-size: 16px !important; color: #4B0082;">计算机 2018级本科 (CS 2018)</span><br>
-<div align="center"><img src="images/QixuanZhang.png" width="200" align="center" /></div><br>
-就读于上海科技大学信息科学与技术学院计算机科学与技术专业。对商业模式和消费者行为学有兴趣，擅长算法设计、项目规划、平面设计、视频剪辑，目前正在向计算机视觉方向学习。
-<br><br>
-
-
-<b><span style="font-size: 20px !important; color: #4B0082;">肖子坤 Zikun Xiao</span></b><br>
-<span style="font-size: 16px !important; color: #4B0082;">计算机 2016级本科 (CS 2016)</span><br>
-<div align="center"><img src="images/XiaoZikun.png" width="200" align="center" /></div><br>
-就读于上海科技大学信息学院计算机科学与技术专业，辅修创新与创业专业。擅长数据挖掘，市场分析，产品设计与实验设计。正在学习有关机器学习与消费者心理的相关知识。对大数据与机器学习应用于研究消费者行为的领域感兴趣。<br>
-As an undergraduate majoring in Computer Science and Technology and minoring in Innovation and Entrepreneurship, Xiao is skilled in data mining, marketing analysis, communication design and experimental design. After joining in AR-Lab in the Spring of 2018, Xiao has been passionate about machine learning and consumer psychology. He is interested in the application of big data and machine learning to studying consumer behavior.
-<br><br>
-
 
 
