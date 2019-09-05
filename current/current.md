@@ -104,7 +104,7 @@ I major in electronic engineering in SIST. I'm very interested in studying how p
 
 <b><span style="font-size: 22px !important; color: #4B0082;">彭绍庭 Shaoting Peng</span></b><br>
 <span style="font-size: 16px !important; color: #4B0082;">计算机 2018级本科 (CS 2018)</span><br>
-<div align="center"><img src="images/ShaotingPeng.jpg" width="300" align="center" /></div><br>
+<div align="center"><img src="images/ShaotingPeng.png" width="300" align="center" /></div><br>
 就读于上海科技大学信息科学与技术学院计算机科学与技术专业。喜欢运动、旅游、吉他和海绵宝宝。对很多事情感兴趣，认准的事会努力去做好。
 
 I am an undergraduate student majoring in Computer Science. I like sports, traveling, guitar and SpongeBob SquarePants. I’m interested in many aspects and I’ll do my best to fulfill my dream.
