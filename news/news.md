@@ -6,7 +6,11 @@ subtitle: What's going on in AR Lab
 ---
 <span style="font-size: 15px !important; color: #BD0026;">2019年9月28日</span>
 ### 创管学院成功主办2019态度研究与创新管理国际研讨会
+### ISARIM 2019 was Held Successfully at ShanghaiTech University
+
 [点击查看原文](https://www.ar-lab.cn/2019-09-28-ISARIM/)
+
+[click here for further information](https://www.ar-lab.cn/2019-09-28-ISARIM-En/)
 
 <span style="font-size: 15px !important; color: #BD0026;">2019年9月3日</span> 
 ### 18级本科生问卷结果反馈——情感问题篇
