@@ -61,6 +61,13 @@ As an undergraduate majoring in Computer Science and Technology and minoring in 
 I major in Computer Science in SIST. In our lab, I have been working in generating creative methods to produce effective event planning, group work coordination, and logistic arrangements.  I am interested in studying how change within an individual’s aspiration affects their behavior in business. I would like to work in financial/consulting field in the future. 
 <br><br>
 
+<b><span style="font-size: 20px !important; color: #4B0082;">黄辰彬 Chenbin Huang</span></b><br>
+<span style="font-size: 16px !important; color: #4B0082;">计算机 2016级本科 (CS 2016)</span><br>
+<div align="center"><img src="images/ChenbinHuang.JPG" width="200" align="center" /></div><br>
+上海科技大学信息学院计算机科学与技术专业本科生，辅修创新与创业专业。目前学习方向为生物信息学以及数据科学。同时对人类行为科学很感兴趣，希望可以通过数据科学的方法，从人行为数据的角度分析人的行为以及背后潜在的态度。同时也对人类行为学的实验本身也很感兴趣。<br>
+Undergraduate student, SIST, Shanghaitech. Major in Computer Science and minor in Innovation and Entreprenuership. Currently, I am working on bioinformatics and data science. I am also interested in human behavior science and am trying to apply techniques in data science to the analysis of consumer behavior and the attitude underneath from the aspect of behavior data. I am interested in human behavior experiment design as well.
+<br><br>
+
 
 <span style="font-size: 22px !important; color: #1E90FF;">蓝带</span>
 <hr>
