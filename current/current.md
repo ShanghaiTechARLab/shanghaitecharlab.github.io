@@ -15,10 +15,6 @@ subtitle: Current Members
 杨博士主要研究消费者行为心理学。杨博士的态度研究实验室（Attitude Research Lab）当前侧重于研究人们对品牌，市场，企业，以及政府在信息推广中涉及的各种营销推广行为的态度，心理，及行为表现。当前研究项目包括各种品牌（Branding）策略，说服(Persuasion)策略，广告措辞(Framing)效应，人喜好与厌恶并存(Ambivalence)的矛盾态度，以及赞助营销行为(Cause-Related Marketing)效应。
 <br><br>
 
-<b><span style="font-size: 25px !important; color:	#556B2F;">Research Associate/Lab Manager</span></b><br>
-<b><span style="font-size: 25px !important; color:	#556B2F;">实验室管理员、研究助理工程师</span></b>
-<hr>
-
 <span style="font-size: 22px !important; color: #CD5C5C;">红带</span>
 <hr>
 
