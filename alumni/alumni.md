@@ -6,6 +6,13 @@ subtitle: AR Lab Alumni
 ---
 <b><span style="font-size: 25px !important; color: 	#326A11;">Lab Alumni</span></b>
 <hr>
+
+<b><span style="font-size: 20px !important; color: #4B0082;">季佳颖 Jiaying Ji<br></span></b>
+<span style="font-size: 16px!important; color: #4B0082;">(MA, Communications, Hongkong Baptist University)</span><br>
+<div align="center"><img src="images/JiayingJi.jpg" width="200" align="center" /></div><br>
+现为上海科技大学创业与管理学院杨丽凤副教授的研究助理，以及态度研究实验室管理员。主要负责研究辅助以及实验室运营的工作。
+<br><br>
+
 <b><span style="font-size: 20px !important; color: #4B0082;">Ji Xia</span></b><br>
 <div align="center"><img src="images/JiXia_Large.jpg" width="200" align="center" /></div><br>
 　　Ji’s research focuses on how motivational forces (goals, evolutionary needs, etc.) could shape people’s cognitions and behaviors. Primarily, he’s interested in motivational factors that hold the potential in influencing how people react to persuasive information as well how they perceive their own reactions (metacognition) and subsequently, how these processes could affect the ways people form/change their attitudes. Ji is originally from China, and received his B.S. (in 2013) and M.S. (in 2016) degree from the University of Iowa.  He is currently pursuing his Ph.D. under Dr. Kenneth G. DeMarree at the SUNY University at Buffalo.
