@@ -10,7 +10,7 @@ subtitle: AR Lab Alumni
 <b><span style="font-size: 20px !important; color: #4B0082;">季佳颖 Jiaying Ji<br></span></b>
 <span style="font-size: 16px!important; color: #4B0082;">(MA, Communications, Hongkong Baptist University)</span><br>
 <div align="center"><img src="images/JiayingJi.jpg" width="200" align="center" /></div><br>
-现为上海科技大学创业与管理学院杨丽凤副教授的研究助理，以及态度研究实验室管理员。主要负责研究辅助以及实验室运营的工作。
+曾为上海科技大学创业与管理学院杨丽凤副教授的研究助理，以及态度研究实验室管理员。主要负责研究辅助以及实验室运营的工作。
 <br><br>
 
 <b><span style="font-size: 20px !important; color: #4B0082;">Ji Xia</span></b><br>
