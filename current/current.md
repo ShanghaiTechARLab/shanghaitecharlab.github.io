@@ -43,14 +43,14 @@ I am interested in studying online consumer behavior. By examining information a
 <span style="font-size: 16px !important; color: #4B0082;">计算机 2016级本科 (CS 2016)</span><br>
 <div align="center"><img src="images/XiaoZikun.png" width="200" align="center" /></div><br>
 就读于上海科技大学信息学院计算机科学与技术专业，辅修创新与创业专业。擅长数据挖掘，市场分析，产品设计与实验设计。正在学习有关机器学习与消费者心理的相关知识。对大数据与机器学习应用于研究消费者行为的领域感兴趣。<br>
-As an undergraduate majoring in Computer Science and Technology and minoring in Innovation and Entrepreneurship, Xiao is skilled in data mining, marketing analysis, communication design and experimental design. After joining in AR-Lab in the Spring of 2018, Xiao has been passionate about machine learning and consumer psychology. He is interested in the application of big data and machine learning to studying consumer behavior.
+As an undergraduate majoring in Computer Science and Technology and minoring in Innovation and Entrepreneurship, Xiao is skilled in data mining, marketing analysis, communication design and experimental design. After joining in AR-Lab in the Spring of 2018, Xiao has been passionate about machine learning and consumer psychology. He is interested in the application of big data and machine learning to study consumer behavior.
 <br><br>
 
 <b><span style="font-size: 20px !important; color: #4B0082;">苗雨欣 Yuxin Miao</span></b><br>
 <span style="font-size: 16px !important; color: #4B0082;">计算机 2017级本科 (CS 2017)</span><br>
 <div align="center"><img src="images/YuxinMiao.jpg" width="200" align="center" /></div><br>
 目前就读于上海科技大学科学与技术学院计算机科学专业，擅长团队工作的协调，项目活动的整体计划。未来希望从事咨询工作，对个体在不同的经济活动中的心理变化对最终结果的影响感兴趣，并且希望能够运用计算机技术协助分析不同态度对于决策结果的影响。<br>
-I major in Computer Science in SIST. In our lab, I have been working in generating creative methods to produce effective event planning, group work coordination, and logistic arrangements.  I am interested in studying how change within an individual’s aspiration affects their behavior in business. I would like to work in financial/consulting field in the future. 
+I major in Computer Science in SIST. In our lab, I have been working in generating creative methods to produce effective event planning, group work coordination, and logistic arrangements.  I am interested in studying how change within an individual’s aspiration affects their behavior in business. I would like to work in the financial/consulting field in the future. 
 <br><br>
 
 <b><span style="font-size: 20px !important; color: #4B0082;">黄辰彬 Chenbin Huang</span></b><br>
@@ -74,7 +74,7 @@ Undergraduate student, SIST, Shanghaitech. Major in Computer Science and minor i
 <b><span style="font-size: 20px !important; color: #4B0082;">王悦豪 Yuehao Wang</span></b><br>
 <span style="font-size: 16px !important; color: #4B0082;">计算机 2017级本科 (CS 2017)</span><br>
 <div align="center"><img src="images/YuehaoWang.jpg" width="200" align="center" /></div><br>
-I am an undergraduate student majoring in Computer Science who is a hardcore of open-source, keen on science and mathematics, curious about nature and humanity, and a dream pursuer. 
+I am an undergraduate student majoring in Computer Science who is a hardcore of open-source. And I am a dream pursuer who is keen on science and mathematics and curious about nature and humanity.
 <br><br>
 
 
@@ -106,7 +106,7 @@ I major in electronic engineering in SIST. I'm very interested in studying how p
 <div align="center"><img src="images/ShaotingPeng.png" width="300" align="center" /></div><br>
 就读于上海科技大学信息科学与技术学院计算机科学与技术专业。喜欢运动、旅游、吉他和海绵宝宝。对很多事情感兴趣，认准的事会努力去做好。
 
-I am an undergraduate student majoring in Computer Science. I like sports, traveling, guitar and SpongeBob SquarePants. I’m interested in many aspects and I’ll do my best to fulfill my dream.
+I am an undergraduate student majoring in Computer Science. I like sports, traveling, playing the guitar and SpongeBob SquarePants. I’m interested in many aspects and I’ll do my best to fulfill my dream.
 <br><br>
 
 
@@ -122,14 +122,14 @@ I am an undergraduate student majoring in Computer Science. I like sports, trave
 <b><span style="font-size: 20px !important; color: #4B0082;">郭嘉茗 Jiaming Guo</span></b><br>
 <span style="font-size: 16px !important; color: #4B0082;">生命科学 2017级本科 (Biology 2017)</span><br>
 <div align="center"><img src="images/JiamingGuo.jpg" width="200" align="center" /></div><br>
-Jiaming is a sophomore in Biology @ShanghaiTech. She is interested in studying Biology, Physics, Chemistry, and Emotions. Jiaming loves integrated ideas from all areas to provide solutions to problems. Together with her four other teammates, Jiaming and her team won the second prize in a design thinking competition, “HackShanghai”. Defining herself as a dreamer, Jiaming also loves poetry. 
+Jiaming is an undergraduate student majoring in Biology @ShanghaiTech. She is interested in studying Biology, Physics, Chemistry, and Emotions. Jiaming loves integrated ideas from all areas to provide solutions to problems. Together with her four other teammates, Jiaming and her team won the second prize in a design thinking competition, “HackShanghai”. Defining herself as a dreamer, Jiaming also loves poetry. 
 <br><br>
 
 
 <b><span style="font-size: 20px !important; color: #4B0082;">黄豆豆 Diane Huang</span></b><br>
 <span style="font-size: 16px !important; color: #4B0082;">生命科学 2017级本科 (Biology 2017)</span><br>
 <div align="center"><img src="images/DoudouHuang.jpg" width="200" align="center" /></div><br>
-As an undergraduate in ShanghaiTech University majoring in Biology and minoring in Business Administration, Diane joined AR-lab to learn in autumn 2018. Armed with a passion for science and an insatiable thirst for knowledge, she hopes to unravel some of the patterns and mysteries of human psychology. Diane is also interested in writing and anything and everything involving new media. When not at work in the lab, Diane enjoys being outdoors, listening to music, watching films and visiting galleries.
+As an undergraduate in ShanghaiTech University majoring in Biology and minoring in Business Administration, Diane joined AR-lab for learning in autumn,2018. Armed with passions for science and an insatiable thirst for knowledge, she hopes to unravel some of the patterns and mysteries of human psychology. Diane is also interested in writing anything and everything involving new media. When not at work in the lab, Diane enjoys being outdoors, listening to music, watching films and visiting galleries.
 <br><br>
 
 
