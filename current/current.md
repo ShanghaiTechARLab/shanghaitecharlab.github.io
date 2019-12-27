@@ -35,7 +35,7 @@ subtitle: Current Members
 <b><span style="font-size: 20px !important; color: #4B0082;">陶天立 Tianli Tao</span></b><br>
 <span style="font-size: 16px !important; color: #4B0082;">电子信息 2017级本科 (EE 2017)</span><br>
 <div align="center"><img src="images/TianliTao.jpg" width="200" align="center" /></div><br>
-I am interested in studying online consumer behavior. By examining information available in Big Data, I wish to be able to develop a deeper understanding of how and why online consumers do what they do. I am interested in online data crawling, data analysis and integration. My dream is to be a foodie who can eat freely and never worries about gaining unnecessary weight. I am good at Selenium, Docker, etc. I love our lab. 
+I am interested in studying online consumer behavior. By examining information available in Big Data, I wish to be able to develop a deeper understanding of how and why online consumers do what they do. I am interested in online data crawling, data analysis and integration. My dream is to be a foodie who can eat freely and never worries about gaining unnecessary weight. I am good at Selenium, Docker, etc. I love our lab.
 <br><br>
 
 
@@ -50,7 +50,7 @@ As an undergraduate majoring in Computer Science and Technology and minoring in 
 <span style="font-size: 16px !important; color: #4B0082;">计算机 2017级本科 (CS 2017)</span><br>
 <div align="center"><img src="images/YuxinMiao.jpg" width="200" align="center" /></div><br>
 目前就读于上海科技大学科学与技术学院计算机科学专业，擅长团队工作的协调，项目活动的整体计划。未来希望从事咨询工作，对个体在不同的经济活动中的心理变化对最终结果的影响感兴趣，并且希望能够运用计算机技术协助分析不同态度对于决策结果的影响。<br>
-I major in Computer Science in SIST. In our lab, I have been working in generating creative methods to produce effective event planning, group work coordination, and logistic arrangements.  I am interested in studying how change within an individual’s aspiration affects their behavior in business. I would like to work in the financial/consulting field in the future. 
+I major in Computer Science in SIST. In our lab, I have been working in generating creative methods to produce effective event planning, group work coordination, and logistic arrangements.  I am interested in studying how change within an individual’s aspiration affects their behavior in business. I would like to work in the financial/consulting field in the future.
 <br><br>
 
 <b><span style="font-size: 20px !important; color: #4B0082;">黄辰彬 Chenbin Huang</span></b><br>
@@ -85,6 +85,15 @@ I am an undergraduate student majoring in Computer Science who is a hardcore of 
 <br><br>
 
 
+<b><span style="font-size: 20px !important; color: #4B0082;">曾庆礼 Qingli Zeng</span></b><br>
+<span style="font-size: 16px !important; color: #4B0082;">计算机 2016级本科 (CS 2016)</span><br>
+<div align="center"><img src="images/QingliZeng.png" width="200" align="center" /></div><br>
+曾庆礼，2016级本科生，就读于上海科技大学信息学院，主修计算机科学与技术，辅修金融学，预计在2020年6月毕业。我对利用计算机解决商业问题很感兴趣，目前正在申请2020年秋季的营销学Ph.D.项目。在ARLab中，和杨丽凤教授合作关于数据挖掘，网络爬取，自然语言处理，以及行为经济学的项目。
+
+My name is Qingli Zeng. I am a computer science major, minoring in Finance. At ARLab, I work with Professor Yang on projects that involve data mining, web crawling, natural language processing, and behavioral economics. I will be graduating in June 2020. I am passionate about solving business problems with computer skills. I would like to continue working on research projects. Currently, I am applying for a Ph.D. degree program in Business Marketing.
+<br><br>
+
+
 <span style="font-size: 22px !important; color: #00FF7F;">青葱成长时</span>
 <hr>
 
@@ -98,7 +107,7 @@ I am an undergraduate student majoring in Computer Science who is a naive learne
 <span style="font-size: 16px !important; color: #4B0082;">电子信息 2017级本科 (EE 2017)</span><br>
 <div align="center"><img src="images/JiaqiLi.jpg" width="200" align="center" /></div><br>
 目前就读于上海科技大学科学与技术学院电子信息工程专业。我对研究人们如何思考问题以及他们的行为方式非常感兴趣。我在《人类行为科学》这门课上认识了杨老师并在后来加入了实验室。我很喜欢实验室的氛围，也很喜欢实验室的小伙伴们。<br>
-I major in electronic engineering in SIST. I'm very interested in studying how people think and how they behave. I like the atmosphere of the laboratory and truly enjoy working with other ARLabers. 
+I major in electronic engineering in SIST. I'm very interested in studying how people think and how they behave. I like the atmosphere of the laboratory and truly enjoy working with other ARLabers.
 <br><br>
 
 <b><span style="font-size: 22px !important; color: #4B0082;">彭绍庭 Shaoting Peng</span></b><br>
@@ -122,7 +131,7 @@ I am an undergraduate student majoring in Computer Science. I like sports, trave
 <b><span style="font-size: 20px !important; color: #4B0082;">郭嘉茗 Jiaming Guo</span></b><br>
 <span style="font-size: 16px !important; color: #4B0082;">生命科学 2017级本科 (Biology 2017)</span><br>
 <div align="center"><img src="images/JiamingGuo.jpg" width="200" align="center" /></div><br>
-Jiaming is an undergraduate student majoring in Biology @ShanghaiTech. She is interested in studying Biology, Physics, Chemistry, and Emotions. Jiaming loves integrated ideas from all areas to provide solutions to problems. Together with her four other teammates, Jiaming and her team won the second prize in a design thinking competition, “HackShanghai”. Defining herself as a dreamer, Jiaming also loves poetry. 
+Jiaming is an undergraduate student majoring in Biology @ShanghaiTech. She is interested in studying Biology, Physics, Chemistry, and Emotions. Jiaming loves integrated ideas from all areas to provide solutions to problems. Together with her four other teammates, Jiaming and her team won the second prize in a design thinking competition, “HackShanghai”. Defining herself as a dreamer, Jiaming also loves poetry.
 <br><br>
 
 
